@@ -9,4 +9,4 @@ The goal of this project is to develop a robust machine learning model using Ten
 ## Model Performance
 
 - **Accuracy**: The model achieved an accuracy of **96%** on the test set.
-- **Test Loss**: The test loss attained by the model is **0.083**.
+- **Test Loss**: The test loss attained by the model is **0.045**.
